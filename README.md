@@ -1,2 +1,2 @@
 # repetition
-praticing repetition
+practicing repetition
