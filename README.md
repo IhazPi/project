@@ -1,2 +1,2 @@
-# repetition
+# project
 practicing repetition
